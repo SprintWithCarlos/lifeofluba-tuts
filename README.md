@@ -11,3 +11,18 @@ Please use a 5X factor for all the times I spend completing the tutorials, I do 
 ## Hope you like it!
 
 To follow the instructions, download it from [Luba's Website](https://www.lifeofluba.com/code)
+I put every step in a separated branch so you can have a picture of the repository at each stage
+
+## Step one: Make a website
+
+Started at 18:33 Saturday March 2 2019
+Codecademy chose an online text editor as their medium to teach. It has pros and cons:
+| Pros | Cons |
+| --- | --- |
+| Student save time since there is no configuration of local enviroments and simply focus on learning | Real world coding is very different to this online editor, it's a _quid pro quo_ for quicker learning |
+| | It has no autocompletion, no autoformatter. It makes you loose time. The exercise ask you to type instead of coding (really good advice) but it doesn't prevent you for doing so |
+
+Not enforcing autoformatting is losing one key opportunity to visually demonstrate a key concept in programming such as inheritance. Indentation helps to visualize parent-children relationships.
+
+Regarding ID's uniqueness, you can read this [article](https://softwareengineering.stackexchange.com/questions/127178/two-html-elements-with-same-id-attribute-how-bad-is-it-really) where the idea is very well explained.
+I completed the course at 20:00, I had to avoid some distractions that prevented me to finish quicker.
