@@ -26,3 +26,9 @@ Not enforcing autoformatting is losing one key opportunity to visually demonstra
 
 Regarding ID's uniqueness, you can read this [article](https://softwareengineering.stackexchange.com/questions/127178/two-html-elements-with-same-id-attribute-how-bad-is-it-really) where the idea is very well explained.
 I completed the course at 20:00, I had to avoid some distractions that prevented me to finish quicker.
+**First step completed**
+![](step1-completed.png)
+
+## Step two: Learn how to code
+
+Started at 21:20 Saturday March 2 2019
