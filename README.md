@@ -31,4 +31,6 @@ I completed the course at 20:00, I had to avoid some distractions that prevented
 
 ## Step two: Learn how to code
 
-Started at 21:20 Saturday March 2 2019
+Started at 19:40 Tuesday March 5 2019
+![](step2-completed.png)
+Completed at 20:20
