@@ -34,3 +34,15 @@ I completed the course at 20:00, I had to avoid some distractions that prevented
 Started at 19:40 Tuesday March 5 2019
 ![](step2-completed.png)
 Completed at 20:20
+
+## Step three: Twitter Bot
+
+Started at 20:20
+I experienced some issues getting Python right. I solved by using this at terminal
+
+```
+$ python3 helloworld.py helloworld.txt
+```
+
+![](step3-completed.png)
+Completed at 22:00 waiting for second tweet to trigger
